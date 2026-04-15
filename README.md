@@ -4,7 +4,6 @@
 <p align="center">
   <a href="mailto:oscarsolideo@gmail.com">📩 Email</a> •
   <a href="https://www.linkedin.com/in/oscar-solideo-siregar/">LinkedIn</a> •
-  <a href="https://github.com/oscarsiregar">GitHub</a>
 </p>
 
 <p align="center">
