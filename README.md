@@ -2,8 +2,10 @@
 <h3 align="center">Software Engineer | Scalable Systems · API Integrations · AI Automation</h3>
 
 <p align="center">
+  <a href="https://oscarsolideo.com">🌐 Portfolio</a> •
   <a href="mailto:oscarsolideo@gmail.com">📩 Email</a> •
   <a href="https://www.linkedin.com/in/oscar-solideo-siregar/">LinkedIn</a> •
+  <a href="https://github.com/oscarsiregar">GitHub</a>
 </p>
 
 <p align="center">
@@ -26,8 +28,8 @@ What I enjoy most is solving complex problems — from system architecture desig
 
 ## 🎯 What I Focus On
 
-- ⚙️ Building **scalable backend systems** (Golang & Node.js)
-- 🌐 Developing **fullstack applications** (TypeScript & modern JS)
+- ⚙️ Building **scalable backend systems** (Golang, Node.js, Python)
+- 🌐 Developing **fullstack applications** (TypeScript & modern JS ecosystem)
 - 🧱 Designing **clean & maintainable architecture**
 - 🔗 Integrating **APIs & third-party services** into reliable workflows
 - 🤖 Exploring **AI-enhanced automation systems**
@@ -39,11 +41,12 @@ What I enjoy most is solving complex problems — from system architecture desig
 ### 🚀 Backend Development
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- RESTful API Design
-- Microservices Architecture
-- Clean Architecture
-- TDD
+- RESTful API Design  
+- Microservices Architecture  
+- Clean Architecture  
+- TDD  
 
 ---
 
@@ -51,6 +54,10 @@ What I enjoy most is solving complex problems — from system architecture desig
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss)
 
 ---
 
@@ -60,6 +67,9 @@ What I enjoy most is solving complex problems — from system architecture desig
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![Memcached](https://img.shields.io/badge/Memcached-1E1E1E?style=for-the-badge)
 
 ---
 
@@ -91,10 +101,10 @@ What I enjoy most is solving complex problems — from system architecture desig
 **Self-employed · Remote**  
 *Jun 2025 – Present*
 
-- Delivered full-stack solutions for multiple clients
-- Built modern frontend with TypeScript & clean architecture
-- Designed backend services with strong data flow consistency
-- Translated business requirements into production-ready systems
+- Delivered full-stack solutions for multiple clients  
+- Built modern frontend with TypeScript & clean architecture  
+- Designed backend services with strong data flow consistency  
+- Translated business requirements into production-ready systems  
 
 ---
 
@@ -102,11 +112,11 @@ What I enjoy most is solving complex problems — from system architecture desig
 **Pinjam Modal (PT Finansial Integrasi Teknologi)**  
 *Oct 2022 – May 2025*
 
-- Developed core systems for B2B P2P lending platform
-- Built disbursement & scheduled payment systems (bank integrations)
-- Designed insurance workflows (claims, payments, repayments)
-- Maintained ~90% unit test coverage
-- Built reporting systems for financial monitoring
+- Developed core systems for B2B P2P lending platform  
+- Built disbursement & scheduled payment systems (bank integrations)  
+- Designed insurance workflows (claims, payments, repayments)  
+- Maintained ~90% unit test coverage  
+- Built reporting systems for financial monitoring  
 
 ---
 
@@ -114,10 +124,10 @@ What I enjoy most is solving complex problems — from system architecture desig
 **Sundalab**  
 *Apr 2023 – Present*
 
-- Built scalable backend systems across multiple projects
-- Designed RESTful APIs & optimized database performance
-- Integrated third-party services & automation workflows
-- Applied clean architecture for long-term scalability
+- Built scalable backend systems across multiple projects  
+- Designed RESTful APIs & optimized database performance  
+- Integrated third-party services & automation workflows  
+- Applied clean architecture for long-term scalability  
 
 ---
 
@@ -125,12 +135,12 @@ What I enjoy most is solving complex problems — from system architecture desig
 **SALT Indonesia**  
 *Feb 2022 – May 2023*
 
-- Built fintech & enterprise systems for Telkom Indonesia
-- Developed CMS using KeystoneJS
-- Improved performance using Redis caching
-- Implemented secure authentication (LDAP, Social Login)
-- Designed async workflows with RabbitMQ
-- Mentored junior developers
+- Built fintech & enterprise systems for Telkom Indonesia  
+- Developed CMS using KeystoneJS  
+- Improved performance using Redis caching  
+- Implemented secure authentication (LDAP, Social Login)  
+- Designed async workflows with RabbitMQ  
+- Mentored junior developers  
 
 ---
 
@@ -140,22 +150,16 @@ What I enjoy most is solving complex problems — from system architecture desig
 Diponegoro University  
 *GPA: 3.90 / 4.00*
 
-Focused on control systems, automation, and analytical problem-solving applied to complex engineering systems.
-
 ---
 
 ## 📚 Publications
 
 ### 📄 HMI for Water Quality Monitoring (Shrimp Farming)
-- Real-time monitoring & control system
-- Sensor integration & feedback loops  
 🔗 https://ejournal.undip.ac.id/index.php/jsinbis/article/view/46535/0
 
 ---
 
 ### 📄 Fuzzy Controller for Crude Oil Dilution
-- Published in IEEE
-- Control theory & system optimization  
 🔗 https://ieeexplore.ieee.org/document/8904443
 
 ---
@@ -165,36 +169,36 @@ Focused on control systems, automation, and analytical problem-solving applied t
 ### 🧪 Fast and Reliable LIMS
 **Golang · PostgreSQL · RabbitMQ**
 
-- Event-driven laboratory system
-- High-volume workflow handling
-- Clean architecture implementation
+- Event-driven laboratory system  
+- High-volume workflow handling  
+- Clean architecture implementation  
 
 ---
 
 ### 💰 Remuneration Management System
 **Golang · PostgreSQL**
 
-- KPI-based compensation system
-- Role-based access control
-- Workflow automation
+- KPI-based compensation system  
+- Role-based access control  
+- Workflow automation  
 
 ---
 
 ### 🛒 Point of Sales System
 **Golang · PostgreSQL**
 
-- Transaction-safe system
-- Real-time inventory sync
-- Sales reporting
+- Transaction-safe system  
+- Real-time inventory sync  
+- Sales reporting  
 
 ---
 
 ### 👥 Employee Management System
 **Node.js · PostgreSQL**
 
-- HR backend system
-- Secure data handling
-- Reporting & analytics
+- HR backend system  
+- Secure data handling  
+- Reporting & analytics  
 
 ---
 
@@ -212,7 +216,8 @@ Focused on control systems, automation, and analytical problem-solving applied t
 
 ## 🤝 Let's Connect
 
-- 📩 Email: oscarsolideo@gmail.com  
+- 🌐 https://oscarsolideo.com  
+- 📩 oscarsolideo@gmail.com  
 - 💼 Open for freelance & remote opportunities  
 
 ---
