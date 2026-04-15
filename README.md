@@ -5,7 +5,6 @@
   <a href="https://oscarsolideo.com">🌐 Portfolio</a> •
   <a href="mailto:oscarsolideo@gmail.com">📩 Email</a> •
   <a href="https://www.linkedin.com/in/oscar-solideo-siregar/">LinkedIn</a> •
-  <a href="https://github.com/oscarsiregar">GitHub</a>
 </p>
 
 <p align="center">
@@ -199,18 +198,6 @@ Diponegoro University
 - HR backend system  
 - Secure data handling  
 - Reporting & analytics  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
